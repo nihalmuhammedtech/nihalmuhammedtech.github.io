@@ -288,7 +288,7 @@
   /* ---------- Contact form (opens the visitor's email app) ---------- */
   var form = document.getElementById("contact-form");
   var status = document.getElementById("form-status");
-  var TO = "alnih1814@gmail.com";
+  var TO = "nihalsalih77@gmail.com";
 
   if (form) {
     form.addEventListener("submit", function (e) {
